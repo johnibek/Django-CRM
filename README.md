@@ -9,7 +9,7 @@
 		<i>Activate your venv:</i><br>
 		<b>cmd: venv/Scripts/activate<br>
 		powershell: .venv/Scripts/activate<br>
-		git: source .venv/Scripts/activate</b>
+		git: source venv/Scripts/activate</b>
 	</li>
 	<hr>
 	<li>
