@@ -4,7 +4,7 @@ README
 Things you need to do first to run this webapp
 ----------------------------------------------
 
-You need to create `virtual environment` for Python::
+You need to create ``virtual environment`` for Python::
 
 	$ python -m venv venv
 
